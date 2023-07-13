@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/To-Do-Rojana/static/css/main.bdd36876.css",
+    "main.js": "/To-Do-Rojana/static/js/main.33ebbefe.js",
+    "index.html": "/To-Do-Rojana/index.html",
+    "main.bdd36876.css.map": "/To-Do-Rojana/static/css/main.bdd36876.css.map",
+    "main.33ebbefe.js.map": "/To-Do-Rojana/static/js/main.33ebbefe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd36876.css",
+    "static/js/main.33ebbefe.js"
+  ]
+}
