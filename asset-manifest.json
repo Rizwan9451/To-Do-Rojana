@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/To-Do-Rojana/static/css/main.bdd36876.css",
-    "main.js": "/To-Do-Rojana/static/js/main.df099af7.js",
+    "main.js": "/To-Do-Rojana/static/js/main.ed20ca09.js",
     "index.html": "/To-Do-Rojana/index.html",
     "main.bdd36876.css.map": "/To-Do-Rojana/static/css/main.bdd36876.css.map",
-    "main.df099af7.js.map": "/To-Do-Rojana/static/js/main.df099af7.js.map"
+    "main.ed20ca09.js.map": "/To-Do-Rojana/static/js/main.ed20ca09.js.map"
   },
   "entrypoints": [
     "static/css/main.bdd36876.css",
-    "static/js/main.df099af7.js"
+    "static/js/main.ed20ca09.js"
   ]
 }
